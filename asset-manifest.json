@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/.github.io/cs110-pro-proj/static/css/main.c46d6323.css",
+    "main.js": "/.github.io/cs110-pro-proj/static/js/main.953eedef.js",
+    "static/js/453.385b27c9.chunk.js": "/.github.io/cs110-pro-proj/static/js/453.385b27c9.chunk.js",
+    "static/media/portrait.jpg": "/.github.io/cs110-pro-proj/static/media/portrait.6d408d9cb53f30390bd9.jpg",
+    "static/media/ucr_logo.png": "/.github.io/cs110-pro-proj/static/media/ucr_logo.056390977f96624d8050.png",
+    "index.html": "/.github.io/cs110-pro-proj/index.html",
+    "main.c46d6323.css.map": "/.github.io/cs110-pro-proj/static/css/main.c46d6323.css.map",
+    "main.953eedef.js.map": "/.github.io/cs110-pro-proj/static/js/main.953eedef.js.map",
+    "453.385b27c9.chunk.js.map": "/.github.io/cs110-pro-proj/static/js/453.385b27c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c46d6323.css",
+    "static/js/main.953eedef.js"
+  ]
+}
